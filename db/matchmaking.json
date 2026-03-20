@@ -1,1 +1,11 @@
-{}
+{
+  "admin": {
+    "uid": "admin",
+    "pseudo": "admin",
+    "elo": 1500,
+    "avatar": "♚",
+    "ts": 1774038520810,
+    "status": "waiting",
+    "peerCode": "K2WNJV"
+  }
+}
