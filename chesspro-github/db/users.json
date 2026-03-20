@@ -1,0 +1,15 @@
+{
+  "admin": {
+    "id": "admin",
+    "pseudo": "admin",
+    "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+    "avatar": "\u265a",
+    "role": "admin",
+    "elo": 1500,
+    "games": 0,
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "joined": "2025-01-01"
+  }
+}
