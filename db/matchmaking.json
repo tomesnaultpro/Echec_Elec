@@ -1,1 +1,11 @@
-{}
+{
+  "test_mmzcrfsa": {
+    "uid": "test_mmzcrfsa",
+    "pseudo": "test",
+    "elo": 1200,
+    "avatar": "♟",
+    "ts": 1774038577111,
+    "status": "waiting",
+    "peerCode": "JYUSVE"
+  }
+}
