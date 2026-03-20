@@ -1,1 +1,17 @@
-{}
+{
+  "test_mmzcrfsa": {
+    "id": "test_mmzcrfsa",
+    "pseudo": "test",
+    "pseudoLower": "test",
+    "password": "cc14ba9e6ead0cf251d4f464330d917839b697274e5e0e592adc13a78f5e7285",
+    "avatar": "♟",
+    "role": "user",
+    "elo": 1200,
+    "games": 0,
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "joined": "20/03/2026",
+    "ts": 1774038573226
+  }
+}
